@@ -1,0 +1,10 @@
+figure
+subplot(1,2,1);
+imshow('1.png','InitialMagnification','fit')
+subplot(1,2,2);
+imshow('H3.png','InitialMagnification','fit')
+figure
+subplot(1,2,1);
+imshow('2H3.png','InitialMagnification','fit')
+subplot(1,2,2);
+imshow('H.png','InitialMagnification','fit')
